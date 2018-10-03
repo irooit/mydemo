@@ -1,0 +1,14 @@
+{
+    "name": "irooit/mydemo",
+    "description": "Mydemo composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irooit",
+            "email": "hi@rooit.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
